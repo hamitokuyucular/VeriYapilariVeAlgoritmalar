@@ -2,7 +2,7 @@
 
 **[22,27,16,2,18,6]** -> Insertion Sort
 
-###  1. Yukarıda verilen dizinin sort türüne göre aşamları.
+###  1. Yukarıda verilen dizinin sort türüne göre aşamları:
 
 ```bash
   -   [2,27,16,22,18,6] (2 ile 22 yer değiştirir.)
@@ -11,14 +11,14 @@
 ```
 
 ----------------------
-### 2. Big-O gösterimi.
+### 2. Big-O gösterimi:
 
 ```bash
   -   O(n²)
 ```
 
 --------------------
-### 3. 18 sayısı için Time Complexity
+### 3. 18 sayısı için Time Complexity:
 
 ```bash
   -   Average Case
@@ -29,7 +29,7 @@ Best Case: Aradığımız sayının dizinin en başında olması.
 ```
 
 --------------
-### 4. [7,3,5,8,2,9,4,15,6] dizisinin Insertion Sort'a göre ilk 4 adımını.
+### 4. [7,3,5,8,2,9,4,15,6] dizisinin Insertion Sort'a göre ilk 4 adımın:
 
 ```bash
   -   Adım 1: [2,3,5,8,7,9,4,15,6] (7 ile 2 yer değiştirir.)
