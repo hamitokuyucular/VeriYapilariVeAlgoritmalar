@@ -29,7 +29,7 @@ Best Case: Aradığımız sayının dizinin en başında olması.
 ```
 
 --------------
-### 4. [7,3,5,8,2,9,4,15,6] dizisinin Insertion Sort'a göre ilk 4 adımın:
+### 4. [7,3,5,8,2,9,4,15,6] dizisinin Insertion Sort'a göre ilk 4 adımı:
 
 ```bash
   -   Adım 1: [2,3,5,8,7,9,4,15,6] (7 ile 2 yer değiştirir.)
